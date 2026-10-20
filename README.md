@@ -14,3 +14,6 @@ This fictional class project explores how students' study habits, such as sleep,
 
 ## Privacy reminder
 Personal records and identifiable participant data must never be uploaded to this repository.
+
+## Next step
+The team will finalize the survey questions and assign tasks to each member.
