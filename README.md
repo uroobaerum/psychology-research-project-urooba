@@ -16,4 +16,4 @@ This fictional class project investigates how different undergraduate study habi
 Personal student records, real names, and any identifiable participant data must strictly never be uploaded to this repository.
 
 ## Next step
-Our next step is to finalize the survey questions and get approval from our class instructor.
+Our next step.
