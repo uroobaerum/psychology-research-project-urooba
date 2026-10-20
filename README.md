@@ -1,19 +1,16 @@
-# Project title: Study Habits and Student Well-being
+# Study Habits and Student Well-being
 
 ## Purpose
-This fictional class project investigates how different undergraduate study habits impact overall student mental health and academic stress levels. By analyzing daily routines, our team aims to identify which specific habits correlate with higher well being scores.
+This fictional class project explores how students' study habits, such as sleep, time management, and break routines, relate to their well-being. The team will practice planning a simple survey and organizing project files.
 
 ## Files
-* project_plan.docx
-* survey_draft.docx
-* data_dictionary.xlsx
+- project_plan.docx - outline of tasks and deadlines
+- survey_draft.docx - draft questions for a fictional survey
+- data_dictionary.xlsx - explanation of survey variables
 
 ## Team rules
-1. All newly uploaded documents must include the date and version number at the end of the filename.
-2. Team members must post a short message in our group chat immediately after committing any project updates.
+1. Name files in lowercase with underscores and a version number, for example survey_draft_v2.docx.
+2. Describe every change in a clear commit message and tell the team in the group chat.
 
 ## Privacy reminder
-Personal student records, real names, and any identifiable participant data must strictly never be uploaded to this repository.
-
-## Next step
-Our next step.
+Personal records and identifiable participant data must never be uploaded to this repository.
