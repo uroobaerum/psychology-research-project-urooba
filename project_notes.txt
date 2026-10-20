@@ -1,0 +1,4 @@
+Project: Study Habits and Student Well-being (fictional class project).
+Goal: Understand how study routines may relate to student well-being.
+Method: A short fictional survey about sleep, study time, and breaks.
+Note: No real participant data is stored in this repository.
